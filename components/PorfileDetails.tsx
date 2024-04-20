@@ -46,7 +46,7 @@ export default function PorfileDetails({ discord }: {discord: DiscordUserData | 
                 <div className='truncate hover:text-clip'>
                   <div>
                     <div className='text-zinc-300 break-words mx-2 select-none leading-tight'>
-                      <p><b>{discord.data['activities'].find((data) => data.name === 'Visual Studio Code')?.details}</b>.</p>
+                      <p><b>{discord.data['activities'].find((data) => data.name === 'Visual Studio Code')?.details}</b></p>
                     </div>
                   </div>
                 </div>

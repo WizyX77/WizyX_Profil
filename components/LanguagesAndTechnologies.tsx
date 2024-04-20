@@ -4,7 +4,7 @@ export default function LanguagesAndTechnologies() {
   return (
     <div className='mt-6 container mx-auto pb-8 w-11/12 sm:pb-10 sm:w-9/12 md:w-7/12'>
       <div className='space-y-2 my-5'>
-        <h3 className='font-semibold text-3xl text-zinc-200'> Kullandığım Diller Ve Sayfalar </h3>
+        <h3 className='font-semibold text-3xl text-zinc-200'> Kullandığım Diller </h3>
         <div className='mt-4 grid gap-2 sm:grid-cols-3 md:grid-cols-4'>
           {technologiesAndLanguages.map((props, key) => (
             <div className='area' key={key}>

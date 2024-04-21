@@ -18,12 +18,6 @@ export const projects: { name: string; description: string; iconURL: string; lin
     link: 'https://discord.gg/tpbJXTpaGe',
     iconURL: 'https://cdn.discordapp.com/attachments/1225439296975015936/1231180576447528960/Ekran_goruntusu_2024-04-08_220545.png?ex=6624e1c3&is=66239043&hm=0c71dffa4353886073d3bbd580a48ffc2e197f01c0220bc3073b5d61d632aad0&',
   },
-  {
-    name: 'WinWizard',
-    description: 'Discord Sunucunuzun En İyi Çekiliş Botu.',
-    link: 'https://winwizard.vercel.app/',
-    iconURL: 'https://cdn.discordapp.com/avatars/1230202370877685801/20c4dd086c21696f2113008b36e70f3b.webp?size=1024',
-  },
 ];
 
 export const githubUsername = 'WizyX77';

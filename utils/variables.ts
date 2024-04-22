@@ -15,7 +15,7 @@ export const projects: { name: string; description: string; iconURL: string; lin
   {
     name: 'WizyX Code',
     description: 'Kod Paylaşım & Altyapı Sunucusu.',
-    link: 'https://discord.gg/tpbJXTpaGe',
+    link: 'https://discord.gg/yFKUP3VvAn',
     iconURL: 'https://cdn.discordapp.com/attachments/1225439296975015936/1231180576447528960/Ekran_goruntusu_2024-04-08_220545.png?ex=6624e1c3&is=66239043&hm=0c71dffa4353886073d3bbd580a48ffc2e197f01c0220bc3073b5d61d632aad0&',
   },
 ];

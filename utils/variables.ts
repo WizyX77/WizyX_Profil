@@ -10,13 +10,13 @@ export const projects: { name: string; description: string; iconURL: string; lin
     name: 'WizyX Uptime Bot',
     description: 'Discord Botunuzu 7/24 Kesintisiz Aktif Tutun.',
     link: 'https://wizyxuptime.vercel.app/',
-    iconURL: 'https://share.creavite.co/662ab5aae877555b0b390f44.png',
+    iconURL: 'https://cdn.discordapp.com/attachments/1232395170578956308/1233146721249394902/standard1.gif?ex=662c08e1&is=662ab761&hm=736c338548bdae5a66d9656bebe6023f4640d31e4b382a0c217031a488657b83&',
   },
   {
     name: 'WizyX Uptime Server',
     description: 'WizyX Uptime Botunun Discord Sunucusu.',
     link: 'https://discord.gg/UtNJXsQnsq',
-    iconURL: 'https://share.creavite.co/662ab589e877555b0b390f43.png',
+    iconURL: 'https://cdn.discordapp.com/attachments/1232395170578956308/1233146720754471082/standard2.gif?ex=662c08e0&is=662ab760&hm=5c1f44a1ece2b378b75545f006afccc35ea25440fe9df06a6c3b595d94faf656&',
   },
 ];
 

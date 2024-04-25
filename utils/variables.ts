@@ -10,13 +10,19 @@ export const projects: { name: string; description: string; iconURL: string; lin
     name: 'WizyX Uptime Bot',
     description: 'Discord Botunuzu 7/24 Kesintisiz Aktif Tutun.',
     link: 'https://wizyxuptime.vercel.app/',
-    iconURL: 'https://cdn.discordapp.com/attachments/1232395170578956308/1233146721249394902/standard1.gif?ex=662c08e1&is=662ab761&hm=736c338548bdae5a66d9656bebe6023f4640d31e4b382a0c217031a488657b83&',
+    iconURL: 'https://cdn.discordapp.com/attachments/1232395170578956308/1233148128790839336/standard1.gif?ex=662c0a30&is=662ab8b0&hm=3c6fb54956b0314cb618eee0f8f316806f3debf994016279375956505872ac06&',
   },
   {
     name: 'WizyX Uptime Server',
     description: 'WizyX Uptime Botunun Discord Sunucusu.',
     link: 'https://discord.gg/UtNJXsQnsq',
-    iconURL: 'https://cdn.discordapp.com/attachments/1232395170578956308/1233146720754471082/standard2.gif?ex=662c08e0&is=662ab760&hm=5c1f44a1ece2b378b75545f006afccc35ea25440fe9df06a6c3b595d94faf656&',
+    iconURL: 'https://cdn.discordapp.com/attachments/1232395170578956308/1233148127910035517/standard2.gif?ex=662c0a30&is=662ab8b0&hm=825a72c00077257ef948b44618795b4040ffab00c9fec9581b21beac08dc08b5&',
+  },
+  {
+    name: 'WizyX Botlist Server',
+    description: 'WizyX Botlist Discord Sunucusu.',
+    link: 'https://discord.gg/UtNJXsQnsq',
+    iconURL: 'https://cdn.discordapp.com/attachments/1232395170578956308/1233148128375607317/standard3.gif?ex=662c0a30&is=662ab8b0&hm=857cae0c4cc0d177087effa93c146d9598a4f8ca48c7d49bd6f2ccf3d12c3139&',
   },
 ];
 

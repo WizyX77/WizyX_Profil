@@ -7,16 +7,16 @@ import { jsx } from 'react/jsx-runtime';
 
 export const projects: { name: string; description: string; iconURL: string; link: string; }[] = [
   {
-    name: 'WizyX Bot',
-    description: 'Discord Sunucunuzun En Sağlam Botu.',
-    link: 'https://wizyxbot.vercel.app/',
-    iconURL: 'https://cdn.discordapp.com/avatars/1134911959024799764/727aa64bb13fa8e4db67521fcf2df08c.webp?size=1024',
+    name: 'WizyX Uptime Bot',
+    description: 'Discord Botunuzu 7/24 Kesintisiz Aktif Tutun.',
+    link: 'https://wizyxuptime.vercel.app/',
+    iconURL: 'https://share.creavite.co/662ab403e877555b0b390f41.gif',
   },
   {
-    name: 'WizyX Code',
-    description: 'Kod Paylaşım & Altyapı Sunucusu.',
-    link: 'https://discord.gg/yFKUP3VvAn',
-    iconURL: 'https://cdn.discordapp.com/attachments/1225439296975015936/1231180576447528960/Ekran_goruntusu_2024-04-08_220545.png?ex=6624e1c3&is=66239043&hm=0c71dffa4353886073d3bbd580a48ffc2e197f01c0220bc3073b5d61d632aad0&',
+    name: 'WizyX Uptime Server',
+    description: 'WizyX Uptime Botunun Discord Sunucusu.',
+    link: 'https://discord.gg/UtNJXsQnsq',
+    iconURL: 'https://share.creavite.co/662ab3ede877555b0b390f40.gif',
   },
 ];
 

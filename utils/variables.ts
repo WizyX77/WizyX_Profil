@@ -7,22 +7,28 @@ import { jsx } from 'react/jsx-runtime';
 
 export const projects: { name: string; description: string; iconURL: string; link: string; }[] = [
   {
-    name: 'WizyX Uptime Bot',
-    description: 'Discord Botunuzu 7/24 Kesintisiz Aktif Tutun.',
-    link: 'https://wizyxuptime.vercel.app/',
-    iconURL: 'https://cdn.discordapp.com/attachments/1232395170578956308/1233148128790839336/standard1.gif?ex=662c0a30&is=662ab8b0&hm=3c6fb54956b0314cb618eee0f8f316806f3debf994016279375956505872ac06&',
+    name: 'WizyX Music',
+    description: 'Kesintisiz Müzik Keyfini Çıkarın!',
+    link: 'https://wizyxmusic.vercel.app/',
+    iconURL: 'https://cdn.discordapp.com/avatars/1243599943352975450/a6e944472ae2054ca2ce26241e9d3053.webp?size=1024',
   },
   {
-    name: 'WizyX Uptime Server',
-    description: 'WizyX Uptime Botunun Discord Sunucusu.',
-    link: 'https://discord.gg/UtNJXsQnsq',
-    iconURL: 'https://cdn.discordapp.com/attachments/1232395170578956308/1233148127910035517/standard2.gif?ex=662c0a30&is=662ab8b0&hm=825a72c00077257ef948b44618795b4040ffab00c9fec9581b21beac08dc08b5&',
+    name: 'WizyX Bot',
+    description: 'Sunucunuzun En Gelişmiş Botu!',
+    link: 'https://discord.com/oauth2/authorize?client_id=1134911959024799764',
+    iconURL: 'https://cdn.discordapp.com/avatars/1241394005564985494/c37e01bb9efb4c511f3790793cbd2ba0.webp?size=1024',
   },
   {
-    name: 'WizyX Botlist Server',
-    description: 'WizyX Botlist Discord Sunucusu.',
+    name: 'WizyX Server',
+    description: 'Discord Sunucumuza Davetlisiniz :)',
+    link: 'https://discord.com/oauth2/authorize?client_id=1134911959024799764',
+    iconURL: 'https://cdn.discordapp.com/avatars/1241394005564985494/c37e01bb9efb4c511f3790793cbd2ba0.webp?size=1024',
+  },
+  {
+    name: 'WizyX Uptime',
+    description: 'Botunuzu Kesintisiz Uptime Edin!',
     link: 'https://discord.gg/UtNJXsQnsq',
-    iconURL: 'https://cdn.discordapp.com/attachments/1232395170578956308/1233148128375607317/standard3.gif?ex=662c0a30&is=662ab8b0&hm=857cae0c4cc0d177087effa93c146d9598a4f8ca48c7d49bd6f2ccf3d12c3139&',
+    iconURL: 'https://cdn.discordapp.com/avatars/1241394005564985494/c37e01bb9efb4c511f3790793cbd2ba0.webp?size=1024',
   },
 ];
 

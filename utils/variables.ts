@@ -13,18 +13,6 @@ export const projects: { name: string; description: string; iconURL: string; lin
     iconURL: 'https://cdn.discordapp.com/avatars/1243599943352975450/a6e944472ae2054ca2ce26241e9d3053.webp?size=1024',
   },
   {
-    name: 'WizyX Bot',
-    description: 'Sunucunuzun En Gelişmiş Botu!',
-    link: 'https://discord.com/oauth2/authorize?client_id=1134911959024799764',
-    iconURL: 'https://cdn.discordapp.com/avatars/1241394005564985494/c37e01bb9efb4c511f3790793cbd2ba0.webp?size=1024',
-  },
-  {
-    name: 'WizyX Server',
-    description: 'Discord Sunucumuza Davetlisiniz :)',
-    link: 'https://discord.com/oauth2/authorize?client_id=1134911959024799764',
-    iconURL: 'https://cdn.discordapp.com/avatars/972557059860099082/9a1186c90d74bec3fc18b51ab3ff757f.webp?size=1024',
-  },
-  {
     name: 'WizyX Uptime',
     description: 'Botunuzu Kesintisiz Uptime Edin!',
     link: 'https://discord.gg/UtNJXsQnsq',
@@ -53,7 +41,7 @@ export const socialMediaAccounts: { name: string; link: string; iconURL: IconTyp
   },
   {
     name: 'YouTube',
-    link: 'https://www.youtube.com/@BRKWizyx',
+    link: 'https://www.youtube.com/@Wizyx77',
     iconURL: BsYoutube,
   },
 ];

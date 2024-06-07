@@ -36,7 +36,7 @@ export const socialMediaAccounts: { name: string; link: string; iconURL: IconTyp
   },
   {
     name: 'TikTok',
-    link: 'https://www.tiktok.com/@brk.wizyx',
+    link: 'https://www.tiktok.com/@wizyx77',
     iconURL: BsTiktok,
   },
   {

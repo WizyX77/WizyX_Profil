@@ -18,7 +18,6 @@ export default function Header() {
           <div className="w-1/3 flex justify-center gap-x-2 mr-2 sm:mr-0">
             <Link href={"/"}>          Anasayfa </Link>
             <Link href={"/projects"}>  Projeler </Link>
-            <Link href={"https://wizyxcode.vercel.app"}>     Özel  </Link>
           </div>
 
           <div className="w-1/3 justify-end hidden sm:flex">

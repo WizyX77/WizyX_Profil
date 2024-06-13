@@ -58,7 +58,7 @@ export default function Contact() {
 
         <motion.div variants={item}>
           <Card
-            cardName="Wizyx Code"
+            cardName="Wizyx"
             cardType="google"
             cardUrl={`https://wizyxcode.vercel.app`}
           />
